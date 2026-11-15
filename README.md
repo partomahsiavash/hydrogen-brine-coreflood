@@ -6,6 +6,8 @@
 
 An identifiability-aware Bayesian model for forecasting liquid recovery during hydrogen displacement in porous rock. The study asks how much early recovery and inlet pressure can tell us about the later response.
 
+[**Source code and synthetic workflow**](code/) · [Run instructions](code/README.md#run)
+
 ## Method
 
 ```mermaid
